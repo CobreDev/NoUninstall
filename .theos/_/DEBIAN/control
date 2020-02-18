@@ -1,0 +1,10 @@
+Package: com.mac-user669.nouninstall
+Name: NoUninstall
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Author: mac-user669 <cooper@cooperhull.com>
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 200
