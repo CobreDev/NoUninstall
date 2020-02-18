@@ -12,5 +12,5 @@ Thumbs.db
 # Custom Files #
 ######################
 *.bak
-.theos
+.theos/
 packages
